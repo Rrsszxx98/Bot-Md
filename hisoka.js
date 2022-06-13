@@ -1145,8 +1145,8 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    displayText: 'Rest Api',
+                                    url: 'https://api-invibot.herokuapp.com/api'
                                 }
                             }, {
                                 callButton: {
@@ -1184,8 +1184,8 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    displayText: 'Rest Api',
+                                    url: 'https://api-invibot.herokuapp.com/api'
                                 }
                             }, {
                                 callButton: {

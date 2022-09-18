@@ -1,9 +1,3 @@
-/**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
-*/
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -18,11 +12,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281226675327','62895401928948']
+global.owner = ['62895401928948']
 global.premium = ['0']
-global.packname = 'Alan'
+global.packname = 'Zyy.'
 global.author = 'Dev-WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.sessionName = 'zyy'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
